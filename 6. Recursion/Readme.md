@@ -1,2 +1,38 @@
 # Recursion
-This directory contains all solutions to sixth task. Task is in polish.
+This directory contains all solutions to sixth task. Task is in polish.  
+<a href="https://github.com/LucasJezap/WDI/tree/master/6.%20Recursion/cw_06-07.pdf"> Tasks Description  
+<a href="https://github.com/LucasJezap/WDI/tree/master/6.%20Recursion/Ćw6_1.cpp"> Exercise 1  
+<a href="https://github.com/LucasJezap/WDI/tree/master/6.%20Recursion/Ćw6_2.cpp"> Exercise 2  
+<a href="https://github.com/LucasJezap/WDI/tree/master/6.%20Recursion/Ćw6_3.cpp"> Exercise 3  
+<a href="https://github.com/LucasJezap/WDI/tree/master/6.%20Recursion/Ćw6_4.cpp"> Exercise 4  
+<a href="https://github.com/LucasJezap/WDI/tree/master/6.%20Recursion/Ćw6_5.cpp"> Exercise 5  
+<a href="https://github.com/LucasJezap/WDI/tree/master/6.%20Recursion/Ćw6_6.cpp"> Exercise 6  
+<a href="https://github.com/LucasJezap/WDI/tree/master/6.%20Recursions/Ćw6_7.cpp"> Exercise 7  
+<a href="https://github.com/LucasJezap/WDI/tree/master/6.%20Recursion/Ćw6_8.cpp"> Exercise 8  
+<a href="https://github.com/LucasJezap/WDI/tree/master/6.%20Recursion/Ćw6_9.cpp"> Exercise 9  
+<a href="https://github.com/LucasJezap/WDI/tree/master/6.%20Recursion/Ćw6_10.cpp"> Exercise 10  
+<a href="https://github.com/LucasJezap/WDI/tree/master/6.%20Recursion/Ćw6_11.cpp"> Exercise 11  
+<a href="https://github.com/LucasJezap/WDI/tree/master/6.%20Recursion/Ćw6_12.cpp"> Exercise 12  
+<a href="https://github.com/LucasJezap/WDI/tree/master/6.%20Recursion/Ćw6_13.cpp"> Exercise 13  
+<a href="https://github.com/LucasJezap/WDI/tree/master/6.%20Recursion/Ćw6_14.cpp"> Exercise 14  
+<a href="https://github.com/LucasJezap/WDI/tree/master/6.%20Recursion/Ćw6_15.cpp"> Exercise 15  
+<a href="https://github.com/LucasJezap/WDI/tree/master/6.%20Recursion/Ćw6_16.cpp"> Exercise 16  
+<a href="https://github.com/LucasJezap/WDI/tree/master/6.%20Recursion/Ćw6_17.cpp"> Exercise 17  
+<a href="https://github.com/LucasJezap/WDI/tree/master/6.%20Recursion/Ćw6_18.cpp"> Exercise 18  
+<a href="https://github.com/LucasJezap/WDI/tree/master/6.%20Recursion/Ćw6_19.cpp"> Exercise 19  
+<a href="https://github.com/LucasJezap/WDI/tree/master/6.%20Recursions/Ćw6_20.cpp"> Exercise 20  
+<a href="https://github.com/LucasJezap/WDI/tree/master/6.%20Recursion/Ćw6_21.cpp"> Exercise 21  
+<a href="https://github.com/LucasJezap/WDI/tree/master/6.%20Recursion/Ćw6_22.cpp"> Exercise 22  
+<a href="https://github.com/LucasJezap/WDI/tree/master/6.%20Recursion/Ćw6_23.cpp"> Exercise 23  
+<a href="https://github.com/LucasJezap/WDI/tree/master/6.%20Recursion/Ćw6_24.cpp"> Exercise 24  
+<a href="https://github.com/LucasJezap/WDI/tree/master/6.%20Recursion/Ćw6_25.cpp"> Exercise 25  
+<a href="https://github.com/LucasJezap/WDI/tree/master/6.%20Recursion/Ćw6_26.cpp"> Exercise 26  
+<a href="https://github.com/LucasJezap/WDI/tree/master/6.%20Recursion/Ćw6_27.cpp"> Exercise 27  
+<a href="https://github.com/LucasJezap/WDI/tree/master/6.%20Recursion c/Ćw6_28.cpp"> Exercise 28  
+<a href="https://github.com/LucasJezap/WDI/tree/master/6.%20Recursion/Ćw6_29.cpp"> Exercise 29  
+<a href="https://github.com/LucasJezap/WDI/tree/master/6.%20Recursion/Ćw6_30.cpp"> Exercise 30  
+<a href="https://github.com/LucasJezap/WDI/tree/master/6.%20Recursion/Ćw6_31.cpp"> Exercise 31  
+<a href="https://github.com/LucasJezap/WDI/tree/master/6.%20Recursion/Ćw6_32.cpp"> Exercise 32  
+<a href="https://github.com/LucasJezap/WDI/tree/master/6.%20Recursion/Ćw6_33.cpp"> Exercise 33  
+<a href="https://github.com/LucasJezap/WDI/tree/master/6.%20Recursion/Ćw6_34.cpp"> Exercise 34  
+<a href="https://github.com/LucasJezap/WDI/tree/master/6.%20Recursion/Ćw6_35.cpp"> Exercise 35  
