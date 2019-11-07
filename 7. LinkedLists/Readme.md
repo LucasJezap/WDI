@@ -1,2 +1,30 @@
 # LinkedLists
-This directory contains (almost) all solutions to seventh task. Task is in polish.
+This directory contains (almost) all solutions to seventh task. Task is in polish.  
+<a href="https://github.com/LucasJezap/WDI/tree/master/7.%20LinkedLists/cw_09.pdf"> Tasks Description  
+<a href="https://github.com/LucasJezap/WDI/tree/master/7.%20LinkedLists/1.cpp"> Exercise 1  
+<a href="https://github.com/LucasJezap/WDI/tree/master/7.%20LinkedLists/2.cpp"> Exercise 2  
+<a href="https://github.com/LucasJezap/WDI/tree/master/7.%20LinkedLists/3.cpp"> Exercise 3  
+<a href="https://github.com/LucasJezap/WDI/tree/master/7.%20LinkedLists/4.cpp"> Exercise 4  
+<a href="https://github.com/LucasJezap/WDI/tree/master/7.%20LinkedLists/6.cpp"> Exercise 6  
+<a href="https://github.com/LucasJezap/WDI/tree/master/7.%20LinkedLists/7.cpp"> Exercise 7  
+<a href="https://github.com/LucasJezap/WDI/tree/master/7.%20LinkedLists/8.cpp"> Exercise 8  
+<a href="https://github.com/LucasJezap/WDI/tree/master/7.%20LinkedLists/9.cpp"> Exercise 9  
+<a href="https://github.com/LucasJezap/WDI/tree/master/7.%20LinkedLists/10.cpp"> Exercise 10  
+<a href="https://github.com/LucasJezap/WDI/tree/master/7.%20LinkedLists/11.cpp"> Exercise 11  
+<a href="https://github.com/LucasJezap/WDI/tree/master/7.%20LinkedLists/12.cpp"> Exercise 12  
+<a href="https://github.com/LucasJezap/WDI/tree/master/7.%20LinkedLists/13.cpp"> Exercise 13  
+<a href="https://github.com/LucasJezap/WDI/tree/master/7.%20LinkedLists/14.cpp"> Exercise 14  
+<a href="https://github.com/LucasJezap/WDI/tree/master/7.%20LinkedLists/15.cpp"> Exercise 15  
+<a href="https://github.com/LucasJezap/WDI/tree/master/7.%20LinkedLists/16.cpp"> Exercise 16  
+<a href="https://github.com/LucasJezap/WDI/tree/master/7.%20LinkedLists/17.cpp"> Exercise 17  
+<a href="https://github.com/LucasJezap/WDI/tree/master/7.%20LinkedLists/18.cpp"> Exercise 18  
+<a href="https://github.com/LucasJezap/WDI/tree/master/7.%20LinkedLists/19.cpp"> Exercise 19  
+<a href="https://github.com/LucasJezap/WDI/tree/master/7.%20LinkedLists/20.cpp"> Exercise 20  
+<a href="https://github.com/LucasJezap/WDI/tree/master/7.%20LinkedLists/21.cpp"> Exercise 21  
+<a href="https://github.com/LucasJezap/WDI/tree/master/7.%20LinkedLists/22.cpp"> Exercise 22  
+<a href="https://github.com/LucasJezap/WDI/tree/master/7.%20LinkedLists/23.cpp"> Exercise 23  
+<a href="https://github.com/LucasJezap/WDI/tree/master/7.%20LinkedLists/24.cpp"> Exercise 24  
+<a href="https://github.com/LucasJezap/WDI/tree/master/7.%20LinkedLists/25.cpp"> Exercise 25  
+<a href="https://github.com/LucasJezap/WDI/tree/master/7.%20LinkedLists/27.cpp"> Exercise 27  
+<a href="https://github.com/LucasJezap/WDI/tree/master/7.%20LinkedLists/28.cpp"> Exercise 28  
+<a href="https://github.com/LucasJezap/WDI/tree/master/7.%20LinkedLists/29.cpp"> Exercise 29  
