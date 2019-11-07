@@ -1,2 +1,26 @@
 # Basics part 2
-This directory contains all solutions to second task. Task is in polish
+This directory contains all solutions to second task. Task is in polish  
+<a href="https://github.com/LucasJezap/WDI/tree/master/1.%20Basics2/cw_02.pdf"> Tasks Description  
+<a href="https://github.com/LucasJezap/WDI/tree/master/1.%20Basics2/Ćw2_1.cpp"> Exercise 1  
+<a href="https://github.com/LucasJezap/WDI/tree/master/1.%20Basics2/Ćw2_2.cpp"> Exercise 2  
+<a href="https://github.com/LucasJezap/WDI/tree/master/1.%20Basics2/Ćw2_3.cpp"> Exercise 3  
+<a href="https://github.com/LucasJezap/WDI/tree/master/1.%20Basics2/Ćw2_4.cpp"> Exercise 4  
+<a href="https://github.com/LucasJezap/WDI/tree/master/1.%20Basics2/Ćw2_5.cpp"> Exercise 5  
+<a href="https://github.com/LucasJezap/WDI/tree/master/1.%20Basics2/Ćw2_6.cpp"> Exercise 6  
+<a href="https://github.com/LucasJezap/WDI/tree/master/1.%20Basics2/Ćw2_7.cpp"> Exercise 7  
+<a href="https://github.com/LucasJezap/WDI/tree/master/1.%20Basics2/Ćw2_8.cpp"> Exercise 8  
+<a href="https://github.com/LucasJezap/WDI/tree/master/1.%20Basics2/Ćw2_9.cpp"> Exercise 9  
+<a href="https://github.com/LucasJezap/WDI/tree/master/1.%20Basics2/Ćw2_10.cpp"> Exercise 10  
+<a href="https://github.com/LucasJezap/WDI/tree/master/1.%20Basics2/Ćw2_11.cpp"> Exercise 11  
+<a href="https://github.com/LucasJezap/WDI/tree/master/1.%20Basics2/Ćw2_12.cpp"> Exercise 12  
+<a href="https://github.com/LucasJezap/WDI/tree/master/1.%20Basics2/Ćw2_13.cpp"> Exercise 13  
+<a href="https://github.com/LucasJezap/WDI/tree/master/1.%20Basics2/Ćw2_14.cpp"> Exercise 14  
+<a href="https://github.com/LucasJezap/WDI/tree/master/1.%20Basics2/Ćw2_15.cpp"> Exercise 15  
+<a href="https://github.com/LucasJezap/WDI/tree/master/1.%20Basics2/Ćw2_16.cpp"> Exercise 16  
+<a href="https://github.com/LucasJezap/WDI/tree/master/1.%20Basics2/Ćw2_17.cpp"> Exercise 17  
+<a href="https://github.com/LucasJezap/WDI/tree/master/1.%20Basics2/Ćw2_18.cpp"> Exercise 18  
+<a href="https://github.com/LucasJezap/WDI/tree/master/1.%20Basics2/Ćw2_19.cpp"> Exercise 19  
+<a href="https://github.com/LucasJezap/WDI/tree/master/1.%20Basics2/Ćw2_20.cpp"> Exercise 20  
+<a href="https://github.com/LucasJezap/WDI/tree/master/1.%20Basics2/Ćw2_21.cpp"> Exercise 21  
+<a href="https://github.com/LucasJezap/WDI/tree/master/1.%20Basics2/Ćw2_22.cpp"> Exercise 22  
+<a href="https://github.com/LucasJezap/WDI/tree/master/1.%20Basics2/Ćw2_23.cpp"> Exercise 23  
