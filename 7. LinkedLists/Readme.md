@@ -1,6 +1,6 @@
 # LinkedLists
 This directory contains (almost) all solutions to seventh task. Task is in polish.  
-<a href="https://github.com/LucasJezap/WDI/tree/master/7.%20LinkedLists/cw_09.pdf"> Tasks Description  
+<a href="https://github.com/LucasJezap/WDI/tree/master/7.%20LinkedLists/cw-09.pdf"> Tasks Description  
 <a href="https://github.com/LucasJezap/WDI/tree/master/7.%20LinkedLists/1.cpp"> Exercise 1  
 <a href="https://github.com/LucasJezap/WDI/tree/master/7.%20LinkedLists/2.cpp"> Exercise 2  
 <a href="https://github.com/LucasJezap/WDI/tree/master/7.%20LinkedLists/3.cpp"> Exercise 3  
@@ -22,7 +22,8 @@ This directory contains (almost) all solutions to seventh task. Task is in polis
 <a href="https://github.com/LucasJezap/WDI/tree/master/7.%20LinkedLists/20.cpp"> Exercise 20  
 <a href="https://github.com/LucasJezap/WDI/tree/master/7.%20LinkedLists/21.cpp"> Exercise 21  
 <a href="https://github.com/LucasJezap/WDI/tree/master/7.%20LinkedLists/22.cpp"> Exercise 22  
-<a href="https://github.com/LucasJezap/WDI/tree/master/7.%20LinkedLists/23.cpp"> Exercise 23  
+<a href="https://github.com/LucasJezap/WDI/tree/master/7.%20LinkedLists/23_it.cpp"> Exercise 23 Iterative  
+<a href="https://github.com/LucasJezap/WDI/tree/master/7.%20LinkedLists/23_rek.cpp"> Exercise 23 Recursively  
 <a href="https://github.com/LucasJezap/WDI/tree/master/7.%20LinkedLists/24.cpp"> Exercise 24  
 <a href="https://github.com/LucasJezap/WDI/tree/master/7.%20LinkedLists/25.cpp"> Exercise 25  
 <a href="https://github.com/LucasJezap/WDI/tree/master/7.%20LinkedLists/27.cpp"> Exercise 27  
