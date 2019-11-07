@@ -1,6 +1,6 @@
 # MultiDimensionalArrays
 This directory contains all solutions to fourth task. Task is in polish.  
-<a href="https://github.com/LucasJezap/WDI/tree/master/4.%20MultiDimensionalArrays/cw_02.pdf"> Tasks Description  
+<a href="https://github.com/LucasJezap/WDI/tree/master/4.%20MultiDimensionalArrays/cw_04.pdf"> Tasks Description  
 <a href="https://github.com/LucasJezap/WDI/tree/master/4.%20MultiDimensionalArrays/Ćw4_1.cpp"> Exercise 1  
 <a href="https://github.com/LucasJezap/WDI/tree/master/4.%20MultiDimensionalArrays/Ćw4_2.cpp"> Exercise 2  
 <a href="https://github.com/LucasJezap/WDI/tree/master/4.%20MultiDimensionalArrays/Ćw4_3.cpp"> Exercise 3  
