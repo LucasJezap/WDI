@@ -1,6 +1,6 @@
 # Basics part 1
 This directory contains all solutions to first task. Task is in polish.  
-<a href="https://github.com/LucasJezap/WDI/tree/master/1.%20Basics/cw_01.pdf"> Tasks Description 
+<a href="https://github.com/LucasJezap/WDI/tree/master/1.%20Basics/cw_01.pdf"> Tasks Description  
 <a href="https://github.com/LucasJezap/WDI/tree/master/1.%20Basics/Ćw1_1.cpp"> Exercise 1  
 <a href="https://github.com/LucasJezap/WDI/tree/master/1.%20Basics/Ćw1_2.cpp"> Exercise 2  
 <a href="https://github.com/LucasJezap/WDI/tree/master/1.%20Basics/Ćw1_3.cpp"> Exercise 3  
